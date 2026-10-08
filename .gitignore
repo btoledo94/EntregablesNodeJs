@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.tools/
+data/
+.env
+memoria-ram/big.csv
+memoria-ram/final.txt

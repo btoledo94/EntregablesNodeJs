@@ -1,0 +1,1 @@
+{"name":"laboratorio-memoria","private":true,"scripts":{"seed":"node seed.js","start":"node pipeline.js","test":"node --test test.js"},"engines":{"node":">=20"}}

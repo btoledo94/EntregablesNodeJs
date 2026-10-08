@@ -1,0 +1,25 @@
+{
+  "name": "api-tarjetas-credito",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "tsx watch src/server.ts",
+    "build": "tsc",
+    "start": "node dist/server.js",
+    "test": "tsx --test tests/api.test.ts"
+  },
+  "dependencies": {
+    "card-validator": "^10.0.4",
+    "express": "^4.21.2",
+    "sql.js": "^1.13.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.17.0",
+    "@types/sql.js": "^1.4.9",
+    "@types/supertest": "^6.0.2",
+    "supertest": "^7.1.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  }
+}

@@ -1,0 +1,1 @@
+{"name":"laboratorio-workers","private":true,"scripts":{"start":"node app.js","test":"node --test test.js"},"engines":{"node":">=20"}}

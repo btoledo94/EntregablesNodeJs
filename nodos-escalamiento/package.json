@@ -1,0 +1,1 @@
+{"name":"laboratorio-nodos","private":true,"scripts":{"node":"node node-server.js","start":"node balancer.js","demo":"node test.js","test":"node --test integration.test.js"},"engines":{"node":">=20"}}
