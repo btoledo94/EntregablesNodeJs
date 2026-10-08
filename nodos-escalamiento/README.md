@@ -1,6 +1,6 @@
 # 3. Nodos de escalamiento
 
-Laboratorio 1 del PDF, páginas 2–7. Tres procesos TCP y un balanceador de capa 4 con Round-Robin por conexión.
+Tres procesos TCP y un balanceador de capa 4 con Round-Robin por conexión.
 
 Abre cuatro terminales en esta carpeta y ejecuta un comando en cada una:
 

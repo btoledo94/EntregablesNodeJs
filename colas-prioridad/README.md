@@ -1,6 +1,6 @@
 # 5. Colas y prioridad
 
-Laboratorio 3 del PDF, páginas 14–19: tareas con prioridad 1 a 10, sort descendente y setImmediate entre tareas.
+Tareas con prioridad 1 a 10, sort descendente y setImmediate entre tareas.
 
 Desde esta carpeta:
 

@@ -1,6 +1,6 @@
 # 4. Memoria RAM
 
-Laboratorio 2 del PDF, páginas 8–13. Genera un CSV respetando write()/drain y transforma con ReadStream → Transform → WriteStream mediante pipeline.
+Genera un CSV respetando write()/drain y transforma con ReadStream → Transform → WriteStream mediante pipeline.
 
 Desde esta carpeta:
 
